@@ -2,11 +2,11 @@
 
 ## 🪶 Sobre Mim
 
-Olá! Sou uma entusiasta da programação. Estou atualmente focada em aprender Kotlin e expandir minhas habilidades em programação. Já fiz um cursinho básico de C# e venho estudando JavaScript. Além disso, passo meu tempo livre imersa na leitura da Bíblia.
+Olá! Sou uma entusiasta da programação. Estou atualmente focada em uma vaga de emprego para aprimorar minhas habilidades em programação. Já fiz um cursinho básico de C#,estudei um pouco de KOTLIN e continuo estudando JavaScript. Além disso, passo meu tempo livre imersa na leitura da Bíblia.
 
 ## 🤓 Minhas Atividades
 
-- 🌱 Atualmente estou aprendendo Mobile Android com **Kotlin** no Santander Bootcamp 2023 pela [dio](https://www.dio.me/) .
+- 🌱 Atualmente no programa TrendsIT criado pelo Núcleo Softex Campinas, voltada para a capacitação técnica (hard skills) em desenvolvimento web full-stack
 - 📚 Amo ler a **Bíblia** e refletir sobre os ensinamentos.
 
 ## 👩‍💻 Alguns Estudos
