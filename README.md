@@ -1,29 +1,34 @@
-# 🚀 Daiane Braga  
+# 🚀 Daiane Braga
 
 ## 🪶 Sobre Mim
 
-Olá! Sou uma entusiasta da programação. Estou atualmente focada em uma vaga de emprego para aprimorar minhas habilidades em programação. Já fiz um cursinho básico de C#,estudei um pouco de KOTLIN e continuo estudando JavaScript. Além disso, passo meu tempo livre imersa na leitura da Bíblia.
+Olá! Sou uma entusiasta da programação focada em desenvolvimento web. Possuo conhecimento prático em JavaScript, onde me sinto mais confortável, e também explorei Java, Kotlin e C#. Amo estudar e estou sempre em busca de aprender mais na área de desenvolvimento. Atualmente, estou me capacitando para desenvolver apps na plataforma Salesforce.
+
+Amo ler a Bíblia e busco aplicar seus princípios de soft-skills em meu dia a dia, como honestidade, confiabilidade, respeito e gratidão.
 
 ## 🤓 Minhas Atividades
 
-- 🌱 Atualmente no programa TrendsIT criado pelo Núcleo Softex Campinas, voltada para a capacitação técnica (hard skills) em desenvolvimento web full-stack
-- 📚 Amo ler a **Bíblia** e refletir sobre os ensinamentos.
+* 🌱 Concluí o nível teórico e prático do programa TrendsIT, focado no desenvolvimento web full-stack pelo Núcleo Softex Campinas.
+* ☁️ Atualmente, estou na trilha de desenvolvedor da Salesforce pelo programa QualificaSP na Trailhead.
+* 📚 Amo ler a **Bíblia** e refletir sobre seus ensinamentos.
 
 ## 👩‍💻 Alguns Estudos
 
-- [Mini Aplicação em C#](https://github.com/Daianebs/Xadrez-no-console) - Xadrez Retro, Uma pequena aplicação que fiz durante o cursinho de C#.
-- [Experimento com API em JavaScript](https://github.com/Daianebs/gerar-Perfis-Aleatorios) - Um simples experimento em JavaScript que gera perfis de cartoons aleatórios.
+- [Lista de Tarefas Demo](https://daianebs.github.io/toDoEstatico/) Projeto pessoal em andamento onde implementei funcionalidades como adicionar, editar e excluir tarefas de forma eficiente usando JavaScript.
+- [App Android com Suporte Idiomas](https://github.com/Daianebs/internacionalizacao-meu-primeiro-app-dio) Desenvolvido como parte do Santander Bootcamp 2023 - Mobile Android com Kotlin, focado em internacionalização para suportar vários idiomas na interface do usuário.
 
 ## 🗨️ Como Entrar em Contato
 
-Embora eu não esteja ativa em redes sociais, você pode me encontrar aqui no GitHub. Fique à vontade para abrir uma **Issue** em algum dos meus projetos.
+Embora eu não esteja ativa em muitas redes sociais, você pode me encontrar aqui no GitHub, no LinkdIn e no Trailhead. Fique à vontade para abrir uma **Issue** em algum dos meus projetos.
 
-[![GITHUB](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=github&logoColor=0E76A8)](https://github.com/Daianebs)
+[![GITHUB](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=github&logoColor=0E76A8)](https://github.com/Daianebs)   [![LINKEDIN](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=LinkedIn&logoColor=0E76A8)](https://www.linkedin.com/in/daiane-br-santos/)   [![TRAILHEAD](https://img.shields.io/badge/trailHead-000?style=for-the-badge&logo=Salesforce&logoColor=0E76A8)](https://www.salesforce.com/trailblazer/daianebr)
 
 ## 📖 Citações Favoritas
 
 > " Concluí que, para eles, não há nada melhor do que se alegrar e fazer o bem durante a sua vida, 13  e também que todos comam e bebam, e desfrutem dos resultados de todo o seu trabalho árduo. É a dádiva de Deus."  - **Eclesiastes 3:12,13**
 
-O que acontecerá no futuro? 
+Esta citação me motiva a ter gratidão por tudo que recebo do verdadeiro Deus. Focando em resultados positivos e na valorização do esforço coletivo.
+
 > "Ele(Deus) enxugará dos seus olhos toda lágrima, e não haverá mais morte, nem haverá mais tristeza, nem choro, nem dor. As coisas anteriores já passaram." - **Apocalipse 21:4**
 
+Essa visão de esperança me inspira a enfrentar desafios com otimismo e a buscar soluções que tragam conforto e alegria aos outros.
