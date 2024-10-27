@@ -9,7 +9,7 @@ Amo ler a Bíblia e busco aplicar seus princípios de soft-skills em meu dia a d
 ## 🤓 Minhas Atividades
 
 * 🌱 Concluí o nível teórico e prático do programa TrendsIT, focado no desenvolvimento web full-stack pelo Núcleo Softex Campinas.
-* ☁️ Atualmente, estou na trilha de desenvolvedor da Salesforce pelo programa QualificaSP na Trailhead.
+* ☁️ Atualmente, estou estudando Generative AI - parceria da Google Cloud Skills Boost e a Fundação Apoio à Tecnologia (FAT) .
 * 📚 Amo ler a **Bíblia** e refletir sobre seus ensinamentos.
 
 ## 👩‍💻 Alguns Estudos
